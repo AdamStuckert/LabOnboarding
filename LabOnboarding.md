@@ -28,3 +28,11 @@ Please [request access to the Carya cluster](https://uh.edu/rcdc/getting-started
 For code, please contact more senior lab members (including me!) for code. Eventually, there will be a common repository of code for the lab--but this does not yet exist.
 
 
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+
