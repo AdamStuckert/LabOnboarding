@@ -18,7 +18,7 @@ General training can be found here:
 
 IACUC training is through CITI, but [find directions here.](https://www.uh.edu/research/compliance/iacuc/education-and-training/)
 
-EHS lab training: The lab safety training catalog can be found [here](https://uh.edu/ehs/commons/safety-training/catalog/). You will be required to take the [general lab safety training](https://ehlsa.cougarnet.uh.edu/EHSA/login?showtrainingregistration=yes)
+EHS lab training: The lab safety training catalog can be found [here](https://uh.edu/ehs/commons/safety-training/catalog/). You will be required to take the [general lab safety training](https://ehlsa.cougarnet.uh.edu/EHSA/login?showtrainingregistration=yes), please note that you have to sign up for a zoom training session for this training.
 
 
 ## Cluster access
