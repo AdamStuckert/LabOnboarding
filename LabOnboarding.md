@@ -27,6 +27,16 @@ Please [request access to the Carya cluster](https://uh.edu/rcdc/getting-started
 
 For code, please contact more senior lab members (including me!) for code. Eventually, there will be a common repository of code for the lab--but this does not yet exist.
 
+## General expectations for lab members
+
+## Undergraduate students
+
+## Graduate students
+
+## Postdocs
+
+## Community information on housing, parking, buses, etc
+
 
 
 
