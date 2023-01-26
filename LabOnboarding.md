@@ -12,7 +12,7 @@ Frog room: TBD
 
 ## General expectations for lab members
 
-Lab members should be a part of the lab community. THis means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600 most days, those are the times I am most likely to be available to meet and assist you.
+Lab members should be a part of the lab community. THis means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600 most days, those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
 
 ## Required training
 
