@@ -10,7 +10,9 @@ In person: Science and Research 2, room 366\
 Lab: Science and Research 2, room 328B\
 Frog room: TBD
 
+## General expectations for lab members
 
+Lab members should be a part of the lab community. THis means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600 most days, those are the times I am most likely to be available to meet and assist you.
 
 ## Required training
 
@@ -27,7 +29,6 @@ Please [request access to the Carya cluster](https://uh.edu/rcdc/getting-started
 
 For code, please contact more senior lab members (including me!) for code. Eventually, there will be a common repository of code for the lab--but this does not yet exist.
 
-## General expectations for lab members
 
 ## Undergraduate students
 
