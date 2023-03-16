@@ -51,6 +51,8 @@ Actively be thinking about what you want after graduation--and this will help wh
 
 General issues on money/pay: My understanding is that you are paid monthly and your first paycheck won't be until possibly October? If you are not paid on time **please tell me immediately**. Y'all will TA most semesters, but I'm hopeful that I can pull federal grants to pay for at least 1 year as an RA and for summer RAships so field seasons are less sticky. 
 
+I want you to apply for funding *even if your project and salary are fully funded*. Writing proposals is a very strange art form, and it takes a lot of practice. Write grants a month before they are due so we can revise revise revise. They require multiple iterations to get to a good spot. I will provide repeated feedback on these.
+
 
 ## Postdocs
 
