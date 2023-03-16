@@ -37,9 +37,26 @@ Software: use the command `module spider SOFTWARE` to see if the software you ne
 
 ## Undergraduate students
 
+Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. COnsider pursuing specific research projects with students in the lab, and consider pursuing independent research. 
+
 ## Graduate students
 
+At the beginning of your time with me, and every year thereafter, we will sit down to create our Development Plan for you. This will include short term goals and long term goals, and we will tailor your time in the lab to meet those goals. We will reassess at least annually. This is so I can effectively give you the tools/opportunities you need, but also so that we can keep you on track.
+
+We will develop project ideas and your dissertation together. This is an iterative process, and it will change over time. I do not expect, or want, a fully formed perfect little project when you first pitch the idea to me. 
+
+Read widely, find cool science, learn lots about biology.
+
+Actively be thinking about what you want after graduation--and this will help when we reassess Development Plans.
+
+General issues on money/pay: My understanding is that you are paid monthly and your first paycheck won't be until possibly October? If you are not paid on time **please tell me immediately**. Y'all will TA most semesters, but I'm hopeful that I can pull federal grants to pay for at least 1 year as an RA and for summer RAships so field seasons are less sticky. 
+
+
 ## Postdocs
+
+## A general note about letters of reference:
+
+Please give me at least 2 weeks notice when asking for letters of reference, more lead time is better for the first letter I write for you. When you send the request, please tell me 1) what the reference is for 2) general details about the opportunity 3) when it is due. If I have not submitted the letter a week before the deadline, please remind me. And remind me again at 2 days and 1 day before the deadline. 
 
 ## Notable Lab Infrastructure
 
