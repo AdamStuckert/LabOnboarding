@@ -35,6 +35,12 @@ Code: please contact more senior lab members (including me!) for code. Eventuall
 
 Software: use the command `module spider SOFTWARE` to see if the software you need is already installed on the cluster by the RCDC group. If not, I maintain some software in `/project/stuckert/software` and it is executable by the group. Finally, don't hesitate to install anaconda3 to maintain software (put it in your personal directory in project; that is `/project/stuckert/users/YOURUSERNAME`). It is a great resource.
 
+
+## Sample storage
+
+## Data storage
+
+
 ## Undergraduate students
 
 Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. COnsider pursuing specific research projects with students in the lab, and consider pursuing independent research. 
