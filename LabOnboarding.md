@@ -1,6 +1,6 @@
 ### Welcome to the lab!
 
-First off--I'm glad you are here! First and foremost I want everyone in the lab to be happy and healthy humans first. Please prioritize a healthy work-life balance, and make sure that you are taking care of yourself. Spend time with family/friends, exercise, take breaks.
+First off--I'm glad you are here! First and foremost I want everyone in the lab to be happy and healthy humans first. Please prioritize a healthy work-life balance, and make sure that you are taking care of yourself. Spend time with family/friends, exercise, take breaks, pursue hobbies, and snuggle salamanders.
 
 ## How to contact me:
 
@@ -12,7 +12,9 @@ Frog room: TBD
 
 ## General expectations for lab members
 
-Lab members should be a part of the lab community. THis means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600 most days, those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
+The lab is dedicated to providing a harassment-free experience for everyone, regardless of age, disability, gender identity, race, religion (or lack thereof), or sexual orientation. Respect for diversity of the human condition is a non-negotiable expectation in the lab.
+
+My goal is to cultivate a group of curious minds to pursue education and knowledge that contribute to each other's growth. Lab members should be a participating member of the lab community. This means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600. So those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
 
 ## Required training
 
@@ -29,8 +31,9 @@ Please [request access to the Carya cluster](https://uh.edu/rcdc/getting-started
 
 Please take some of [the training courses](https://hpedsi.uh.edu/education/training), especially 110 Intro to HPC unless you are already cluster and SLURM proficient. [Here is a good intro to SLURM](https://blog.ronin.cloud/slurm-intro/), which is what our clusters use for job maintenance and scheduling.
 
-For code, please contact more senior lab members (including me!) for code. Eventually, there will be a common repository of code for the lab--but this does not yet exist.
+Code: please contact more senior lab members (including me!) for code. Eventually, there will be a common repository of code for the lab--but this does not yet exist.
 
+Software: use the command `module spider SOFTWARE` to see if the software you need is already installed on the cluster by the RCDC group. If not, I maintain some software in `/project/stuckert/software` and it is executable by the group. Finally, don't hesitate to install anaconda3 to maintain software (put it in your personal directory in project; that is `/project/stuckert/users/YOURUSERNAME`). It is a great resource.
 
 ## Undergraduate students
 
