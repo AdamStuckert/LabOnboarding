@@ -9,6 +9,13 @@ Email: astuckert@uh.edu\
 In person: Science and Research 2, room 366\
 Lab: Science and Research 2, room 328B\
 Frog room: TBD
+Shipping address:
+Adam Stuckert
+University of Houston, Department of Biology and Biochemistry
+3455 Cullen Blvd
+SR2 Building Room 342
+Houston, TX 77204
+
 
 ## General expectations for lab members
 
