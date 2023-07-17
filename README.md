@@ -8,7 +8,7 @@ Slack: ask for a link to be added\
 Email: astuckert@uh.edu\
 In person: Science and Research 2, room 366\
 Lab: Science and Research 2, room 328B\
-Frog room: TBD
+Frog room: SR2 69/70\
 Shipping address:
 Adam Stuckert\
 University of Houston, Department of Biology and Biochemistry\
