@@ -14,7 +14,7 @@ Adam Stuckert\
 University of Houston, Department of Biology and Biochemistry\
 3455 Cullen Blvd\
 SR2 Building Room 342\
-Houston, TX 77204
+Houston, TX 77204 
 
 
 ## General expectations for lab members
