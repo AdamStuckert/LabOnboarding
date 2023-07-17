@@ -10,11 +10,11 @@ In person: Science and Research 2, room 366\
 Lab: Science and Research 2, room 328B\
 Frog room: TBD
 Shipping address:
-Adam Stuckert
-University of Houston, Department of Biology and Biochemistry
-3455 Cullen Blvd
-SR2 Building Room 342
-Houston, TX 77204
+Adam Stuckert\
+University of Houston, Department of Biology and Biochemistry\
+3455 Cullen Blvd\
+SR2 Building Room 342\
+Houston, TX 77204\
 
 
 ## General expectations for lab members
@@ -45,12 +45,19 @@ Software: use the command `module spider SOFTWARE` to see if the software you ne
 
 ## Sample storage
 
+All samples must be stored in appropriate tubes (mostly this will be 2mL Eppendorfs or PCR tubes). These must be located within a box that is labelled with the year and your name. **ALL samples must have relevant metadata stored on the cluster and accessible to me** This will help maintain the provenance of samples and make it clear to whom they belong and what these samples are. Label boxes with the label maker. Label all tubes with marker. If samples are preserved in ethanol, provide an additional label written on paper and in *pencil* so it does not get wiped away by the alcohol. Each lab member will be assigned space in the freezers. Please don't move anyone else's samples.
+
+Samples will stay in the lab freezers when folks move on, please know this upfront. Please also save samples in duplicate when possible. I will not use them unless we are in agreement. I am more than happy to send samples to you when you land a faculty job and are ready for additional work on these samples.
+
 ## Data storage
 
+All data must be stored in **READ ONLY** format in our storage on the Carya cluster (note to Adam: add a mechanism and location for this on the cluster later). Your data will be in a subdirectory under your name. Please arrange your data so that each project is in its own directory with appropriate metadata (I will provide a document on this eventually). When all readsets are back from the core and have been QC'd they should be archived on NCBI/ENA and embargoed for maximum time frame (2-3 years).
+
+I will purchase a sufficiently large external hard drive for you to take data with you (pending funds, but this should be feasible).
 
 ## Undergraduate students
 
-Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. COnsider pursuing specific research projects with students in the lab, and consider pursuing independent research. 
+Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. Consider pursuing specific research projects with students in the lab, and consider pursuing independent research. 
 
 ## Graduate students
 
