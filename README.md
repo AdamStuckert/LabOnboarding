@@ -14,7 +14,7 @@ Adam Stuckert\
 University of Houston, Department of Biology and Biochemistry\
 3455 Cullen Blvd\
 SR2 Building Room 342\
-Houston, TX 77204\
+Houston, TX 77204
 
 
 ## General expectations for lab members
@@ -75,6 +75,8 @@ I want you to apply for funding *even if your project and salary are fully funde
 
 
 ## Postdocs
+
+Postdocs are a weird, critical part of your career. It is both very freeing (little to no teaching obligations or classes!) but also very stressful (the eventual need to get a job is very stressful and a huge drain, don't let anyone tell you otherwise). My primary goal during this time is to get you into a job. Our approach to this will be individually tailored. But in general, I expect postdocs to be intellectual drivers of the lab that take an active approach to mentoring grad and undergrad students. Our goal will be to publish material with you as primary and corresponding author and to fill in any gaps on your CV/resume that are likely to hold you back as you apply to future jobs. I expect that some portion of your work time will be spent applying for jobs, but that this will ebb and flow during your individual application season(s). 
 
 ## A general note about letters of reference:
 
