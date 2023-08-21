@@ -73,6 +73,7 @@ General issues on money/pay: My understanding is that you are paid monthly and y
 
 I want you to apply for funding *even if your project and salary are fully funded*. Writing proposals is a very strange art form, and it takes a lot of practice. Write grants a month before they are due so we can revise revise revise. They require multiple iterations to get to a good spot. I will provide repeated feedback on these.
 
+Prior to starting at UH: You can only get your Cougar card and sign up for parking if you are *enrolled in a class*. Grad students in the dept are advised to enroll during orientation week, at which point it takes longer to get a cougar card and the cheaper parking spots are taken. You may want to enroll for anything sometime during the summer so you can get your card/parking.
 
 ## Postdocs
 
