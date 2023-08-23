@@ -87,6 +87,8 @@ Please give me at least 2 weeks notice when asking for letters of reference, mor
 
 There is a mini-fridge and microwave for FOOD and DRINK only. This is likely to be in the front half of the lab. Please feel free to use these resources. Please also keep in mind that this is for our group so follow basic fridge etiquette (don't leave your food in there to mold, don't steal food, don't use all the space, etc). There is also a coffee pot, if you drink coffee please bring some in on occasion to replenish the supply.
 
-## Community information on housing, parking, buses, etc
+## Community information on housing, cougar card, parking, buses, etc
 
+Please get a cougar card as soon as possible if you don't have one. You will need one for various UH things, including getting in to the animal rooms. [Information on cougar cards lives here.](https://uh.edu/af-university-services/cougarcard/)
 
+If you need to park on campus, make sure that you get parking as early as you can. Some of the lots are uncovered and approximately half the price of the covered garage parking, but I have heard that they fill up quickly. [Parking information for students.](https://uh.edu/parking/parking-on-campus/permits/student/).
