@@ -21,7 +21,7 @@ Houston, TX 77204
 
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of age, disability, gender identity, race, religion (or lack thereof), or sexual orientation. Respect for diversity of the human condition is a non-negotiable expectation in the lab.
 
-My goal is to cultivate a group of curious minds to pursue education and knowledge that contribute to each other's growth. Lab members should be a participating member of the lab community. This means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600. So those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
+My goal is to cultivate a group of curious minds to pursue education and knowledge that contribute to each other's growth. Ask questions. Please don't be afraid to ask for clarification; if you are confused someone else likely is too. Lab members should be a participating member of the lab community. This means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600. So those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
 
 ## Required training
 
@@ -33,7 +33,7 @@ EHS lab training: The lab safety training catalog can be found [here](https://uh
 
 ## Lab meetings
 
-We will have weekly lab meetings with the Albecker lab. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend. We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
+We will have weekly lab meetings with the Albecker lab. We will be meeting in SR2 room 301 while renovations are ongoing. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend. We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
 
 ## Cluster access
 
