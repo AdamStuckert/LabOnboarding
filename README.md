@@ -87,10 +87,10 @@ We will discuss authorship when designing projects and discussing papers to make
  
 Authorship will be based on the following four criteria, defined by the International Committee for Medical Journal Editors (ICMJE):
 
-•	Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; and
-•	Drafting the work or revising it critically for important intellectual content; and
-•	Final approval of the version to be published; and
-•	Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+•	Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; and\
+•	Drafting the work or revising it critically for important intellectual content; and\
+•	Final approval of the version to be published; and\
+•	Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.\
  
 These are guidelines, we can make exceptions as needed. 
 
