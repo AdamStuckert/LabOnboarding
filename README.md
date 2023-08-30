@@ -31,6 +31,9 @@ IACUC training is through CITI, but [find directions here.](https://www.uh.edu/r
 
 EHS lab training: The lab safety training catalog can be found [here](https://uh.edu/ehs/commons/safety-training/catalog/). You will be required to take the [general lab safety training](https://ehlsa.cougarnet.uh.edu/EHSA/login?showtrainingregistration=yes), please note that you have to sign up for a zoom training session for this training.
 
+## Lab meetings
+
+We will have weekly lab meetings with the Albecker lab. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend. We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
 
 ## Cluster access
 
@@ -90,7 +93,7 @@ Authorship will be based on the following four criteria, defined by the Internat
 •	Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; and\
 •	Drafting the work or revising it critically for important intellectual content; and\
 •	Final approval of the version to be published; and\
-•	Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.\
+•	Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
  
 These are guidelines, we can make exceptions as needed. 
 
