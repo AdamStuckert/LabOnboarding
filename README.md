@@ -57,7 +57,7 @@ I will purchase a sufficiently large external hard drive for you to take data wi
 
 ## Undergraduate students
 
-Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. Consider pursuing specific research projects with students in the lab, and consider pursuing independent research. 
+Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. Consider pursuing specific research projects with students in the lab, and consider pursuing independent research. If you are an undergrad working in the lab, we will start you off with easier projects/tasks and work you into research projects if you desire specific research experience. It is my goal and expectation that all undergrads in the lab will have the opportunity to pursue more in-depth research and earn authorship on publications.
 
 ## Graduate students
 
@@ -78,6 +78,21 @@ Prior to starting at UH: You can only get your Cougar card and sign up for parki
 ## Postdocs
 
 Postdocs are a weird, critical part of your career. It is both very freeing (little to no teaching obligations or classes!) but also very stressful (the eventual need to get a job is very stressful and a huge drain, don't let anyone tell you otherwise). My primary goal during this time is to get you into a job. Our approach to this will be individually tailored. But in general, I expect postdocs to be intellectual drivers of the lab that take an active approach to mentoring grad and undergrad students. Our goal will be to publish material with you as primary and corresponding author and to fill in any gaps on your CV/resume that are likely to hold you back as you apply to future jobs. I expect that some portion of your work time will be spent applying for jobs, but that this will ebb and flow during your individual application season(s). 
+
+## Authorship policy
+
+The Stuckert lab expectation is that if someone contributed substantially to a project then they should be an author on that projects' manuscript(s). If you notice that you, or someone else you believe should be an author, is not on the author list please tell me as soon as you notice this. 
+
+We will discuss authorship when designing projects and discussing papers to make sure expectations are clear up front. If you are mentoring another lab member or someone external to the lab who will be contributing to a project then they should be included in these conversations. We want to have these conversations up front so expectations are clear and no one is surprised.
+ 
+Authorship will be based on the following four criteria, defined by the International Committee for Medical Journal Editors (ICMJE):
+
+•	Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; and
+•	Drafting the work or revising it critically for important intellectual content; and
+•	Final approval of the version to be published; and
+•	Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+ 
+These are guidelines, we can make exceptions as needed. 
 
 ## A general note about letters of reference:
 
