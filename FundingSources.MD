@@ -16,7 +16,7 @@ UH offers several internal grants, please try for them!
 
 ## Postdocs
 
-[NSF Postdoctoral Research Fellowships in Biology (PRFB)](https://www.nsf.gov/pubs/2023/nsf23620/nsf23620.htm): $60,000 salary per year + $20,000 training allowance for 3 years. I will ask all postdocs to write at least one of these because they are great training and a good salary.
+[NSF Postdoctoral Research Fellowships in Biology (PRFB)](https://www.nsf.gov/pubs/2023/nsf23620/nsf23620.htm): $60,000 salary per year + $20,000 training allowance for 3 years. I will ask all postdocs to write at least one of these because they are great training and a good salary.\
 [Burroughs Wellcome Fund POSTDOCTORAL DIVERSITY ENRICHMENT PROGRAM](https://www.bwfund.org/funding-opportunities/diversity-in-science/postdoctoral-enrichment-program/): $60,000 over three years to support the career development activities for underrepresented minority postdoctoral fellows (Note: check eligibility).
 
 ## Lab as whole
