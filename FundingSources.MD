@@ -27,5 +27,6 @@ UH offers several internal grants, please try for them!
 * [NSF Postdoctoral Research Fellowships in Biology (PRFB)](https://www.nsf.gov/pubs/2023/nsf23620/nsf23620.htm): $60,000 salary per year + $20,000 training allowance for 3 years. I will ask all eligible postdocs to write at least one of these because they are great training and a good salary.
 * [Burroughs Wellcome Fund POSTDOCTORAL DIVERSITY ENRICHMENT PROGRAM](https://www.bwfund.org/funding-opportunities/diversity-in-science/postdoctoral-enrichment-program/): $60,000 over three years to support the career development activities for underrepresented minority postdoctoral fellows (Note: check eligibility).
 * [Smith Fellowship](https://conbio.org/mini-sites/smith-fellows/about-the-program/program-details/): Two year annual salary of $65,000, research funds totaling $32,000 and an $8,000 travel budget to address a pressing conservatione need.
+* [Hannah H Gray Fellows Program](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview): 
 
 Upper level grad students and postdocs: we can write a full NSF or NIH grant together. I will probably tap you for help reviewing/writing these eventually anyway so you might as well be proactive about this!
