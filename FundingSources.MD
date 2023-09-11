@@ -1,5 +1,7 @@
 ## FUNDING
 
+Funding is really important! This is probably no surprise. Even if the lab is well funded I expect us to be trying for new sources of funding. The reasons are twofold: 1) It looks really good for you if you are able to secure independent funding and 2) It takes several tries to land a grant so trying early and often is critical.
+
 Here is a non-exhaustive source of potential funding for the lab. Please add to this as you find new opportunities!
 
 ## Opportunities for folks at all levels:
