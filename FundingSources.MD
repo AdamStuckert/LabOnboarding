@@ -2,10 +2,6 @@
 
 Here is a non-exhaustive source of potential funding for the lab. Please add to this as you find new opportunities!
 
-## Things we need to add:
-
-* Smith fellows
-
 ## Opportunities for folks at all levels:
 [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/academic-programs) has fellowships/internships for any level, check them out!
 
