@@ -12,15 +12,11 @@ Respect:
 * Respect your own ideas! Take your ideas seriously​. Many of the lab tasks are for ongoing projects that we are beholden to community groups, grantors, or others for. But we are always interested in new projects or new ways of doing ongoing projects. We’re especially interested in ideas for how to make our work more equitable for all (e.g., unlearning colonialist habits, removing explicit and implicit bias against people or groups, reducing frivolous gatekeeping, improving equitability in access to science and knowledge). If you have an idea for something you want to explore or develop, let us know!
 
 Lab Communication: 
-Resolve conflicts when they are small​. Conflict resolution critical to group work. If you’re
-having some trouble with a rule, a process, a person, etc., others may not notice and it’s up to you to articulate the issue so we can address it. You can say things like, “I notice that you’re late sometimes, and then I have to use my time to wait for you when I’d prefer to work at our agreed upon time. How can we work on that?” or “Thank you for volunteering to make the map! I appreciate that. But we want to give everyone a chance to practice map skills, so we’re going to have Sandrine do it this time. How does that sound?” 
+Resolve conflicts when they are small​. Conflict resolution critical to group work. If you’re having some trouble with a rule, a process, a person, etc., others may not notice and it’s up to you to articulate the issue so we can address it. You can say things like, “I notice that you’re late sometimes, and then I have to use my time to wait for you when I’d prefer to work at our agreed upon time. How can we work on that?” or “Thank you for volunteering to make the map! I appreciate that. But we want to give everyone a chance to practice map skills, so we’re going to have Sandrine do it this time. How does that sound?” 
 
-Report misconduct. Contractors have a responsibility to appropriately and promptly report misconduct they witness or of which they become aware as related to their contracted work. When working in off-campus locations, contractors should report according to practices of the workplace they are operating in. When the misconduct involves UH affiliated persons, lab members should report to Molly or to upper admin (Amy Sater or Erin Kelleher). 
+Report misconduct. Contractors have a responsibility to appropriately and promptly report misconduct they witness or of which they become aware as related to their contracted work. When working in off-campus locations, contractors should report according to practices of the workplace they are operating in. When the misconduct involves UH affiliated persons, lab members should report to Adam or to upper admin (Amy Sater or Erin Kelleher). 
 
-If you have to go, go. But tell us​! Sometimes the semester is overwhelming, life
-happens, and you either need to take a break for a few weeks or leave the lab altogether. That’s
-normal and we will look to support you in that. Just make sure you let Molly know so she can
-ensure your project is cared for in your absence.
+If you have to go, go. But tell us​! Sometimes the semester is overwhelming, life happens, and you either need to take a break for a few weeks or leave the lab altogether. That’s normal and we will look to support you in that. Just make sure you let Adam know so she can ensure your project is cared for in your absence.
 
 Science Communication:
 Acknowledge the shoulders you stand on​. When writing articles, giving presentations, or communicating your science, please acknowledge the community resources, knowledge, and hard work that brought about your exciting science. No scientific discovery is made by one person, one experiment, or even one lifetime of work. 
@@ -33,7 +29,7 @@ Shared Values:
 The Stuckert Lab shares a core set of shared values - assume goodwill, kind honesty, bravery, inclusion, engagement, excitement for research, respect for your limits, and respect for all working styles. And we are excited to share a space that promotes each other, our science, and these values.
 
 Inclusive language glossaries:
-http://rcsgd.sa.ucsb.edu/education/lgbtqia-glossary
+http://rcsgd.sa.ucsb.edu/education/lgbtqia-glossary\
 https://www.racialequitytools.org/glossary
 
 
