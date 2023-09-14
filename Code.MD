@@ -22,4 +22,5 @@ All code will be referenced as a GitHub repo during submission. Once mansucripts
 
 ```
 [![DOI](https://zenodo.org/badge/190391128.svg "Zenodo DOI")](https://doi.org/10.5281/zenodo.8346530)
+# left link is for the DOI badge; right link is the DOI for the Zenodo archive
 ```
