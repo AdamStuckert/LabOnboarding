@@ -4,6 +4,8 @@ This document establishes expectation for working with and preserving code, as w
 
 ## Expectations
 
+Code takes time to write. If you are writing new code/pipelines, please document it so your future self and labmates can follow your logic. If you are starting a new analysis and you think there might be code floating around in the lab, ask a more senior lab member (Adam, a postdoc, a grad student, etc). Lets save time reinventing the code wheel if we can. An obvious corollary to this is that I expect lab members to share code when applicable.
+
 All code will be maintained and published alongside manuscripts. Code will be put online on GitHub, and may be private until we submit manuscripts. *All code should be updated frequently on GitHub so that we have a paper trail for analyses. Uploading code months later or right before submission is a recipe for fear, confusion, and panic.* Please add me as a collaborator on GitHub so I can view code as needed (this can also help me troubleshoot).
 
 ## Publication
