@@ -72,11 +72,11 @@ Read widely, find cool science, learn lots about biology.
 
 Actively be thinking about what you want after graduation--and this will help when we reassess Development Plans.
 
-General issues on money/pay: My understanding is that you are paid monthly and your first paycheck won't be until possibly October? If you are not paid on time **please tell me immediately**. Y'all will TA most semesters, but I'm hopeful that I can pull federal grants to pay for at least 1 year as an RA and for summer RAships so field seasons are less sticky. 
+General issues on money/pay: My understanding is that you are paid monthly and your first paycheck won't be until possibly October 1 If you are not paid on time **please tell me immediately**. Y'all will TA most semesters, but I'm hopeful that I can pull federal grants to pay for at least 1 year as an RA and for summer RAships so field seasons are less sticky. 
 
 I want you to apply for funding *even if your project and salary are fully funded*. Writing proposals is a very strange art form, and it takes a lot of practice. Write grants a month before they are due so we can revise revise revise. They require multiple iterations to get to a good spot. I will provide repeated feedback on these.
 
-Prior to starting at UH: You can only get your Cougar card and sign up for parking if you are *enrolled in a class*. Grad students in the dept are advised to enroll during orientation week, at which point it takes longer to get a cougar card and the cheaper parking spots are taken. You may want to enroll for anything sometime during the summer so you can get your card/parking.
+Prior to starting at UH: You can only get your Cougar card and sign up for parking if you are *enrolled in a class*. Grad students in the dept are advised to enroll during orientation week, at which point it takes longer to get a cougar card and the cheaper parking spots are taken. You may want to enroll for anything sometime during the summer so you can get your card/parking. Make sure that you also fill out the FAFSA before starting in grad school.
 
 ## Postdocs
 
