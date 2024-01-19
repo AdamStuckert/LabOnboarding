@@ -6,6 +6,11 @@ Here is a non-exhaustive source of potential funding for the lab. Please add to 
 
 ## Opportunities for folks at all levels:
 [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/academic-programs) has fellowships/internships for any level, check them out!
+SSAR
+ASIH
+SIGMA XI
+GENETICS SOCIETY CONTINUING PROJECT....
+
 
 ## Undergrads
 
