@@ -23,8 +23,8 @@ UH offers several internal grants, please try for them!
 
 ## Grad students
 
-*[NSF Graduate Rearch Fellowship Program](https://www.nsf.gov/pubs/2023/nsf23605/nsf23605.htm): A 3 year fellowship with a VERY nice salary of ~$37k. Incoming grad students, first years, and maybe second years are eligible. Please check the document. [Some examples of funded GRFPs can be found here](https://github.com/ybrandvain/GRFP) and [here is a nice writeup about the GRFP with tips!](https://www.alexhunterlang.com/nsf-fellowship)
-*[Am Nat student research awards](https://www.amnat.org/announcements/apply-student-research-award.html#:~:text=The%20ASN%20Student%20Research%20Awards,%242%2C000%20check%20to%20the%20candidate): $2,000 for students post-candidacy; due in March.
+* [NSF Graduate Rearch Fellowship Program](https://www.nsf.gov/pubs/2023/nsf23605/nsf23605.htm): A 3 year fellowship with a VERY nice salary of ~$37k. Incoming grad students, first years, and maybe second years are eligible. Please check the document. [Some examples of funded GRFPs can be found here](https://github.com/ybrandvain/GRFP) and [here is a nice writeup about the GRFP with tips!](https://www.alexhunterlang.com/nsf-fellowship)
+* [Am Nat student research awards](https://www.amnat.org/announcements/apply-student-research-award.html#:~:text=The%20ASN%20Student%20Research%20Awards,%242%2C000%20check%20to%20the%20candidate): $2,000 for students post-candidacy; due in March.
 
 ## Postdocs
 
