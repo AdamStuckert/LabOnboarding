@@ -5,7 +5,7 @@ First off--I'm glad you are here! First and foremost I want everyone in the lab 
 ## How to contact me:
 
 Slack: ask for a link to be added\
-Email: astuckert@uh.edu\
+Email: astuckert[at].edu\
 In person: Science and Research 2, room 366\
 Lab: Science and Research 2, room 328B\
 Frog room: SR2 69/70\
