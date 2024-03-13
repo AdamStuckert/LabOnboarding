@@ -31,6 +31,8 @@ IACUC training is through CITI, but [find directions here.](https://www.uh.edu/r
 
 EHS lab training: The lab safety training catalog can be found [here](https://uh.edu/ehs/commons/safety-training/catalog/). You will be required to take the [general lab safety training](https://ehlsa.cougarnet.uh.edu/EHSA/login?showtrainingregistration=yes), please note that you have to sign up for a zoom training session for this training.
 
+UH New Hire Training: there are a lot of little course modules that you NEED to complete. **My expectation is that you will do this in the first week of working here (postdocs, graduate students).** If you do not do this within the timeline that HR provides, then **HR will terminate your employment** and that would be sad/bad for all of us.
+
 ## Lab meetings
 
 We will have weekly lab meetings with the Albecker lab. We will be meeting in SR2 room 301 while renovations are ongoing. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend. We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
