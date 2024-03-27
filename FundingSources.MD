@@ -34,3 +34,7 @@ UH offers several internal grants, please try for them!
 * [Hannah H Gray Fellows Program](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview): 
 
 Upper level grad students and postdocs: we can write a full NSF or NIH grant together. I will probably tap you for help reviewing/writing these eventually anyway so you might as well be proactive about this!
+
+## Additional resources
+
+[This GitHub repo has a lot of funded fellowships/grants/faculty applications](https://github.com/RILAB/statements)
