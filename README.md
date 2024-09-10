@@ -80,6 +80,8 @@ I want you to apply for funding *even if your project and salary are fully funde
 
 Prior to starting at UH: You can only get your Cougar card and sign up for parking if you are *enrolled in a class*. Grad students in the dept are advised to enroll during orientation week, at which point it takes longer to get a cougar card and the cheaper parking spots are taken. You may want to enroll for anything sometime during the summer so you can get your card/parking. Make sure that you also fill out the FAFSA before starting in grad school.
 
+Form a committee by the end of your first year (relevant paperwork)[https://uh.edu/nsm/_docs/nsm/students/graduate/Committee-Composition.pdf] and aim to defend in the spring of your second year.
+
 ## Postdocs
 
 Postdocs are a weird, critical part of your career. It is both very freeing (little to no teaching obligations or classes!) but also very stressful (the eventual need to get a job is very stressful and a huge drain, don't let anyone tell you otherwise). My primary goal during this time is to get you into a job. Our approach to this will be individually tailored. But in general, I expect postdocs to be intellectual drivers of the lab that take an active approach to mentoring grad and undergrad students. Our goal will be to publish material with you as primary and corresponding author and to fill in any gaps on your CV/resume that are likely to hold you back as you apply to future jobs. I expect that some portion of your work time will be spent applying for jobs, but that this will ebb and flow during your individual application season(s). 
