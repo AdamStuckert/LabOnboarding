@@ -80,7 +80,7 @@ I want you to apply for funding *even if your project and salary are fully funde
 
 Prior to starting at UH: You can only get your Cougar card and sign up for parking if you are *enrolled in a class*. Grad students in the dept are advised to enroll during orientation week, at which point it takes longer to get a cougar card and the cheaper parking spots are taken. You may want to enroll for anything sometime during the summer so you can get your card/parking. Make sure that you also fill out the FAFSA before starting in grad school.
 
-Form a committee by the end of your first year (relevant paperwork)[https://uh.edu/nsm/_docs/nsm/students/graduate/Committee-Composition.pdf] and aim to defend in the spring of your second year.
+Form a committee by the end of your first year [https://uh.edu/nsm/_docs/nsm/students/graduate/Committee-Composition.pdf](relevant paperwork) and aim to defend in the spring of your second year.
 
 ## Postdocs
 
