@@ -23,6 +23,8 @@ The lab is dedicated to providing a harassment-free experience for everyone, reg
 
 My goal is to cultivate a group of curious minds to pursue education and knowledge that contribute to each other's growth. Ask questions. Please don't be afraid to ask for clarification; if you are confused someone else likely is too. Lab members should be a participating member of the lab community. This means attending lab meetings, helping each other out with protocols/writing, etc. I don't have specific expectations for when you are present on campus because people have different internal clocks. I tend to be on campus 0915-1600. So those are the times I am most likely to be available to meet and assist you, and I would like you to overlap with those hours at least several hours a week.
 
+We have a weekly departmental seminar Wednesdays at 4pm in HSC 102. Please make sure to attend this seminar series--broadening your horizons and seeing what works and doesn't work in talks is a crucial part of your growth as trainees. I do not expect you there every week, and certainly folks with dependents are likely to have difficulties attending, but please make sure to regularly attend.
+
 ## Required training
 
 General training can be found here:
