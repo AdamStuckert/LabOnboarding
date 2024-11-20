@@ -7,7 +7,7 @@ It is important to remember that while I hope the person(s) collecting the data 
 
 ### Metadata and README files
 
-All projects need to be thoroughly documented with both a README and metadata.
+All projects need to be thoroughly documented with both a README and metadata. These should be written when you start the project, and revised as project plans change. The README file should describe the purpose of the project, when the work is being done, where the work is being done, the people working on the project, the data types being collected, funding agencies, and IACUC/permit approval numbers. Metadata should be written before the initiation of data collection, and should thoroughly describe all columns of data spreadsheets. This includes any abbreviations found within columns, and any other pieces of information that you may forget in a few months and external folks viewing the data for the first time would not know. This file should also include things such as links to protocols, machines used, etc. Metadata files must be written for any spreadsheet you produce.
 
 ### Genomic data
 
@@ -18,7 +18,7 @@ The Stuckert lab will take at minimum a two-pronged approach to storing genomic 
 One of the most important thing to do when downloading data from a core facility is to immediately make sure that the data has been correctly downloaded. The fastest way to do this is to check the hash scores of the md5 values.
 
 ```bash
-# note, run this script from inside the directory in which you just downloaded data. The expectation is that there are no other files in the directory, and all sequence read files end in *gz
+# note, run this script from inside the directory in which you just downloaded data. 
 md5sum -c md5sum.txt 
 # swap this with the text file of md5values from the core. If they do not provide one, you should ask for it!
 ```
