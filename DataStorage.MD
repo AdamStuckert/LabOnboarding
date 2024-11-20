@@ -1,5 +1,16 @@
 ## Data Management Standard Operating Procedure
 
+### Overview
+This document serves as the plan for long term data preservation and use. Maintaining and documenting data are key to your success, and the success of the lab as a whole. We will follow this SoP with intentionality to preserve the hard work to collect our data.
+
+It is important to remember that while I hope the person(s) collecting the data analyze and write the manuscripts, the data need to be maintained in such a way that they are accessible and to the lab as a whole and anyone who may view them in the future. Finally, all data must stay with the lab, but lab members are encouraged to take a personal copy with them when they leave (and finish analyzing and writing up manuscripts with data they collected in the lab).
+
+### Metadata and README files
+
+All projects need to be thoroughly documented with both a README and metadata.
+
+### Genomic data
+
 The Stuckert lab will take at minimum a two-pronged approach to storing genomic data. First, we will download and place data into our local repository on the Carya cluster. Students will download data, check md5sums, then deposit that data in the repo. I will then make the data read only. Metadata **must** be included in the directory with raw reads. These raw reads may be copied or read, but are to remain in their original unedited form in perpetuity. Raw reads will also be deposited in the Short Read Archive (SRA) with an embargo period of at least 2 years. Do this ASAP after checking md5sum values and placing data in the repository on the cluster. **ALL raw data must be backed up in this manner.**
 
 ## Data download and md5sums
