@@ -29,7 +29,7 @@ We have a weekly departmental seminar Wednesdays at 4pm in HSC 102. Please make 
 
 General training can be found here:
 
-IACUC training is through CITI, but [find directions here.](https://www.uh.edu/research/compliance/iacuc/education-and-training/)
+IACUC training is through CITI, but [find directions here.](https://www.uh.edu/research/compliance/iacuc/education-and-training/) Everyone will need to take two classes: `Working with the IACUC - Researchers` and `Working with Amphibians in Research Settings`.
 
 EHS lab training: The lab safety training catalog can be found [here](https://uh.edu/ehs/commons/safety-training/catalog/). You will be required to take the [general lab safety training](https://ehlsa.cougarnet.uh.edu/EHSA/login?showtrainingregistration=yes), please note that you have to sign up for a zoom training session for this training.
 
