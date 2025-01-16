@@ -21,6 +21,10 @@ UH offers several internal grants, please try for them!
 * [Houston Early Research Experience (HERE)](https://uh.edu/honors/undergraduate-research/our-programs/here/): $1,000 scholarship for a two-week workshop intended to orient rising sophomore and junior undergraduates to the fundamentals of conducting research (typically mid-May).
 * UH College Work Study: I have an open ad for frog care folks all the time. If you are eligible for college work study please let me know and apply.
 
+External grants:
+
+*[STRI RaMP-UP](https://www.gsscholar.org/rampup-fellows-program): A paid, year-long research experience at STRI in Panama. Open to recent and soon to be graduates. 
+
 ## Grad students
 
 * [NSF Graduate Rearch Fellowship Program](https://www.nsf.gov/pubs/2023/nsf23605/nsf23605.htm): A 3 year fellowship with a VERY nice salary of ~$37k. Incoming grad students, first years, and maybe second years are eligible. Please check the document. [Some examples of funded GRFPs can be found here](https://github.com/ybrandvain/GRFP) and [here is a nice writeup about the GRFP with tips!](https://www.alexhunterlang.com/nsf-fellowship)
