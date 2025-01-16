@@ -23,7 +23,7 @@ UH offers several internal grants, please try for them!
 
 External grants:
 
-*[STRI RaMP-UP](https://www.gsscholar.org/rampup-fellows-program): A paid, year-long research experience at STRI in Panama. Open to recent and soon to be graduates. 
+* [STRI RaMP-UP](https://www.gsscholar.org/rampup-fellows-program): A paid, year-long research experience at STRI in Panama. Open to recent and soon to be graduates. 
 
 ## Grad students
 
