@@ -21,9 +21,13 @@ UH offers several internal grants, please try for them!
 * [Houston Early Research Experience (HERE)](https://uh.edu/honors/undergraduate-research/our-programs/here/): $1,000 scholarship for a two-week workshop intended to orient rising sophomore and junior undergraduates to the fundamentals of conducting research (typically mid-May).
 * UH College Work Study: I have an open ad for frog care folks all the time. If you are eligible for college work study please let me know and apply.
 
-External grants:
+## Post-bacc
 
 * [STRI RaMP-UP](https://www.gsscholar.org/rampup-fellows-program): A paid, year-long research experience at STRI in Panama. Open to recent and soon to be graduates. 
+* [UConn RaMP on genomic novelty](https://genome-postbac.biology.clas.uconn.edu/): Also a paid post-bacc, at UConn
+* [UH STEGG-INTERACT](https://www.uh.edu/nsm/biology-biochemistry/news-events/stegg-interact/): Hosted by UH! Work here, at Rice, or A&M.
+
+There is also an opportunity for me to get additional funds for a 1 year post-bacc via my NSF. Please ask me if you are interested in trying for this.
 
 ## Grad students
 
