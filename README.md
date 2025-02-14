@@ -64,7 +64,11 @@ I will purchase a sufficiently large external hard drive for you to take data wi
 
 ## Undergraduate students
 
+I am excited to have undergraduates in the lab, and love the enthusiasm y'all bring. Undergrads enter the lab with the expectation that they will contribute to caring for our captive colony of frogs. I expect undergrads to take at least one day a week of frog care to contribute to our efforts. After a month or two when students have experience with the animals and feel comfortable in the lab, we will want to get you involved in research in the lab.
+
 Please get involved and be an active member. The best way to get the most out of your time in the lab is to be present and engaged. Consider pursuing specific research projects with students in the lab, and consider pursuing independent research. If you are an undergrad working in the lab, we will start you off with easier projects/tasks and work you into research projects if you desire specific research experience. It is my goal and expectation that all undergrads in the lab will have the opportunity to pursue more in-depth research and earn authorship on publications.
+
+The lab hosts a joint lab meeting with the Albecker lab, undergraduates are encouraged but not required to attend these. They are an excellent learning opportunity to see how science is done, how projects are planned, etc.
 
 ## Graduate students
 
