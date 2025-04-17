@@ -12,3 +12,8 @@ General expectations:
 * Clean up. This includes putting everything away and wiping down your surfaces. If someone has to clean up after you before they can work, then you did not clean.
 * Music is fine, as long as anyone else in the lab is ok with it, otherwise use headphones. Ask them first. 
 * Turn off the lights when you leave
+
+
+## Freezer space
+
+Every lab member collecting samples should have their own drawers/racks in the -20 and -80 freezers. It is your responsibility to label every box in a way that we can identify projects, every tube to identify the sample, and every sample needs to be in spreadsheets in the lab google drive. No exceptions.
