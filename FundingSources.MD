@@ -47,6 +47,10 @@ There is also an opportunity for me to get additional funds for a 1 year post-ba
 
 Upper level grad students and postdocs: we can write a full NSF or NIH grant together. I will probably tap you for help reviewing/writing these eventually anyway so you might as well be proactive about this!
 
+## Conference travel grants from UH
+
+* [Cullen Graduate Fellowship Travel Grant](https://www.uh.edu/graduate-school/graduate-funding/)
+* [NSM Grad school conference travel award](https://uh.edu/nsm/students/graduate/financial-support/)
 ## Additional resources
 
 [This GitHub repo has a lot of funded fellowships/grants/faculty applications](https://github.com/RILAB/statements)
