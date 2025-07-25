@@ -37,7 +37,16 @@ UH New Hire Training: there are a lot of little course modules that you NEED to 
 
 ## Lab meetings
 
-We will have weekly lab meetings with the Albecker lab. We will be meeting in SR2 room 301 while renovations are ongoing. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend. We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
+We will have weekly lab meetings with the Albecker lab. We will be meeting in SR2 room 301 while renovations are ongoing. Postdocs and grad students are expected to attend, undergraduates are encouraged to attend but not required to do so. We will do our best to schedule lab meetings so that everyone can attend, but this is not always feasible (especially arranging around undergraduate courses, unfortunately). We will use the first lab meeting of the semester to plan that semester's lab meetings. Lab meetings will vary in purpose, but we will aim to provide feedback on experimental design, manuscripts, grants, fellowships, etc; share/learn new professional skills; discuss new papers; etc. 
+
+Expectations for lab meetings:
+
+• Everyone will come to lab meeting prepared. This means that for weeks in which we are discussing a paper, _you have read and thought about the paper in advance_. For weeks that we are providing feedback on a lab member's paper or proposal _you have read and thought about the paper and made insightful comments in advance_. Everyone has something to provide, please make sure you are doing so.
+• If you are leading lab meeting, you need to be prepared to do so. It is your responsibility to make sure that you are prepared. So, if you are scheduled to lead a lab meeting during the semester, back calculate the dates that you need to have hit major milestones by (e.g., initial outline, rough draft, edits, etc). If you are unprepared it wastes everyone's time, both in lab meeting and in preparation for it.
+• Be respectful. You may disagree and be constructively critical, but do it respectfully.
+• Be punctual.
+• Lab meeting is one of the best times to grow intellectually. Treat it like that. Accept the challenge and rise to it.
+• Lab members not meeting expectations for lab meetings will discuss the situation with Adam.
 
 ## Cluster access
 
@@ -58,9 +67,11 @@ Samples will stay in the lab freezers when folks move on, please know this upfro
 
 ## Data storage
 
-All data must be stored in **READ ONLY** format in our storage on the Carya cluster (note to Adam: add a mechanism and location for this on the cluster later). Your data will be in a subdirectory under your name. Please arrange your data so that each project is in its own directory with appropriate metadata (I will provide a document on this eventually). When all readsets are back from the core and have been QC'd they should be archived on NCBI/ENA and embargoed for maximum time frame (2-3 years).
+All data must be stored in **READ ONLY** format in our storage on the Carya cluster, we have a specific repository for this which is in RAID5 format. Your data will be in a subdirectory under your name. Please arrange your data so that each project is in its own directory with appropriate metadata (I will provide a document on this eventually). When all readsets are back from the core and have been QC'd they should be archived on NCBI/ENA and embargoed for maximum time frame (2-3 years).
 
-I will purchase a sufficiently large external hard drive for you to take data with you (pending funds, but this should be feasible).
+I will purchase a sufficiently large external hard drive for you to take data with you (pending funds, but this should be feasible). 
+
+**I expect ALL lab members to maintain their sequence data and products on my cluster repository and general data on the lab Google Drive.** If you do not put your data there, then I reserve the right to not discuss any results or manuscripts _until I have acces to the data_. Data generation is a critical step in the scientific process, but if the data are not maintained in perpetuity, then they mean nothing. Our lab is supported and funded by state and federal taxpayer money, it is our responsibility to spend that wisely _and maintain data and products for future work._ 
 
 ## Undergraduate students
 
