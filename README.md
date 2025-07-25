@@ -41,11 +41,11 @@ We will have weekly lab meetings with the Albecker lab. We will be meeting in SR
 
 Expectations for lab meetings:
 
-• Everyone will come to lab meeting prepared. This means that for weeks in which we are discussing a paper, _you have read and thought about the paper in advance_. For weeks that we are providing feedback on a lab member's paper or proposal _you have read and thought about the paper and made insightful comments in advance_. Everyone has something to provide, please make sure you are doing so.
-• If you are leading lab meeting, you need to be prepared to do so. It is your responsibility to make sure that you are prepared. So, if you are scheduled to lead a lab meeting during the semester, back calculate the dates that you need to have hit major milestones by (e.g., initial outline, rough draft, edits, etc). If you are unprepared it wastes everyone's time, both in lab meeting and in preparation for it.
-• Be respectful. You may disagree and be constructively critical, but do it respectfully.
-• Be punctual.
-• Lab meeting is one of the best times to grow intellectually. Treat it like that. Accept the challenge and rise to it.
+• Everyone will come to lab meeting prepared. This means that for weeks in which we are discussing a paper, _you have read and thought about the paper in advance_. For weeks that we are providing feedback on a lab member's paper or proposal _you have read and thought about the paper and made insightful comments in advance_. Everyone has something to provide, please make sure you are doing so.\
+• If you are leading lab meeting, you need to be prepared to do so. It is your responsibility to make sure that you are prepared. So, if you are scheduled to lead a lab meeting during the semester, back calculate the dates that you need to have hit major milestones by (e.g., initial outline, rough draft, edits, etc). If you are unprepared it wastes everyone's time, both in lab meeting and in preparation for it.\
+• Be respectful. You may disagree and be constructively critical, but do it respectfully.\
+• Be punctual.\
+• Lab meeting is one of the best times to grow intellectually. Treat it like that. Accept the challenge and rise to it.\
 • Lab members not meeting expectations for lab meetings will discuss the situation with Adam.
 
 ## Cluster access
