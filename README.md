@@ -77,7 +77,7 @@ Samples will stay in the lab freezers when folks move on, please know this upfro
 
 ## Data storage
 
-All data must be stored in **READ ONLY** format in our storage on the Carya cluster, we have a specific repository for this which is in RAID5 format. Your data will be in a subdirectory under your name. Please arrange your data so that each project is in its own directory with appropriate metadata (I will provide a document on this eventually). When all readsets are back from the core and have been QC'd they should be archived on NCBI/ENA and embargoed for maximum time frame (2-3 years).
+All data must be stored in **READ ONLY** format in our storage on the Carya cluster, we have a specific repository for this which is in RAID5 format. Your data will be in a subdirectory under your name. When you download data, you must immediately check md5sum values. You will get a file with md5sum values from the core, check with `md5sum -c md5values.txt`. Please arrange your data so that each project is in its own directory with appropriate metadata (I will provide a document on this eventually). When all readsets are back from the core and have been QC'd they should be archived on NCBI/ENA and embargoed for maximum time frame (2-3 years).
 
 I will purchase a sufficiently large external hard drive for you to take data with you (pending funds, but this should be feasible). 
 
